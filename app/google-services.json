@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "665090473561",
+    "firebase_url": "https://yohoo-ba393-default-rtdb.firebaseio.com",
+    "project_id": "yohoo-ba393",
+    "storage_bucket": "yohoo-ba393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665090473561:android:1efe7ab687f8ef444afb48",
+        "android_client_info": {
+          "package_name": "com.online.yoohoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665090473561-hh20ml1htmecicsr0qbpoblgik9g9o5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.online.yoohoo",
+            "certificate_hash": "24d2a4c96fdc36e218fabefba2081a864abcc726"
+          }
+        },
+        {
+          "client_id": "665090473561-embip7jngvpu1mhe0pjcvm1780iuv0m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqI8wxjZvVQQoA13VHjS9Mp67vSIILmUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665090473561-embip7jngvpu1mhe0pjcvm1780iuv0m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

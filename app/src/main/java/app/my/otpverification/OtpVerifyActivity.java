@@ -79,7 +79,7 @@ public class OtpVerifyActivity extends AppCompatActivity {
                                     binding.progressBarVerify.setVisibility(View.VISIBLE);
                                     binding.btnVerify.setVisibility(View.INVISIBLE);
                                     Toast.makeText(OtpVerifyActivity.this, "Welcome...", Toast.LENGTH_SHORT).show();
-                                    Intent intent = new Intent(OtpVerifyActivity.this, MainActivity.class);
+                                    Intent intent = new Intent(OtpVerifyActivity.this, ProfileActivity.class);
                                     intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK);
                                     startActivity(intent);
                                 } else {

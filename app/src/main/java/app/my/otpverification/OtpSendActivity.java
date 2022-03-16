@@ -98,7 +98,7 @@ public class OtpSendActivity extends AppCompatActivity {
     }
 
     private void sendToMain(){
-        startActivity(new Intent(OtpSendActivity.this , MainActivity.class));
+        startActivity(new Intent(OtpSendActivity.this , ProfileActivity.class));
         finish();
     }
 }
